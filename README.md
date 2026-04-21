@@ -35,7 +35,7 @@ I have a proven track record of leading cross-functional teams, implementing CI/
 * **Key Achievement:** Established the entire mobile architecture and maintained a 100% on-time delivery track record.
 
 #### 🛒 E-Commerce Platform
-* **Role:** Lead Developer
+* **Role:** Developer
 * **Tech:** Flutter, Responsive UI, Order Management Workflows
 * **Summary:** Developed a dual-application platform (Customer + Delivery) from scratch with seamless end-to-end grocery and payment workflows.
 
