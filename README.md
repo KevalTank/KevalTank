@@ -14,7 +14,7 @@ I have a proven track record of leading cross-functional teams, implementing CI/
 * **Architecture:** Clean Architecture, MVVM, MVC, Repository Pattern, Dependency Injection
 * **Backend & Cloud:** Firebase (Auth, Firestore, Cloud Functions), Supabase, RESTful APIs
 * **Monetization:** Stripe, Razorpay, RevenueCat (In-App Purchases)
-* **DevOps/CI/CD:** Codemagic, GitHub Actions, Flutter Flavors
+* **DevOps/CI/CD:** Codemagic, Flutter Flavors
 
 ---
 
