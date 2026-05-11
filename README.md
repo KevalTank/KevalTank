@@ -1,7 +1,7 @@
 # Hi, I'm Keval Tank 👋 
 ### Flutter Developer & Mobile Lead
 
-I am a results-driven **Flutter Developer** with over **4.5 years of professional experience** building high-performance, scalable mobile applications. My expertise lies in architecting robust systems using **Clean Architecture** and the **BLoC state management pattern** to deliver crash-free, production-ready apps.
+I am a results-driven **Flutter Developer** with over **4.8 years of professional experience** building high-performance, scalable mobile applications. My expertise lies in architecting robust systems using **Clean Architecture** and the **BLoC state management pattern** to deliver crash-free, production-ready apps.
 
 I have a proven track record of leading cross-functional teams, implementing CI/CD pipelines, and rescuing high-stakes projects under tight deadlines.
 
